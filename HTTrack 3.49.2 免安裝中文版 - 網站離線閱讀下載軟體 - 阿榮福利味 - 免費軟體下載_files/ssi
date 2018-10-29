@@ -1,0 +1,41 @@
+_pi_adbot_bootstrap.parse_y_syndication_info({
+   "ads" : [
+      {
+         "beacon" : "https://tp2.beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=xWg5gYYGIS.D5sBHJg.dY6WEaqFzj82iBnxlOyKYCyZrXEmPiaxc5Y7g.fDQS1iz1GqxQm4h_MGcrL43LO48OhQa4HNH7pdUov_rlsMxuy2OIBvvFzYiH14_Cqg3051TMJiF8S0K.qQm0K_44nxL3LLwn6wn.3Me.bQQFlhBR_s7kKixk7de32X0qAogITmOCrcC8gjIfVfbuRRypILPhwZlkXfyUZHs7Hrv1HYLlJaLuZcgaVn0xoVZaCW5Mzdgjm1q9ir86RxoY0OAAKIbBGrmApefnEWcaFv.b4l0waFDdv_Z0Y.2Crt.BrX_rYBy.mAtgKjFfosMz3pdqfLmajdU7HmV_dqDCOUnLTU7cJzoM3YXZHq_IbfmPz1jsAq95jcTm4TqRb97IqJpYYzQlSfymCQpopyMtQR40LOhGsiWo3uY.2XO3D709d9Q&ap=$(AD_POSN)",
+         "ccCode" : "STRM",
+         "creativeId" : 34435817776,
+         "displayUrl" : "",
+         "index" : 1,
+         "landingPageUrl" : "http://quwettea.tianxinmall.com",
+         "priceType" : "CPC",
+         "rules" : {
+            "viewabilityDefStatic" : {
+               "c" : 1,
+               "d" : 1,
+               "p" : 50
+            }
+         },
+         "sponsoredBy" : "tianxinmall",
+         "tag" : "{\"ad_feedback_beacon\":\"https://beap-bc.yahoo.com/af/tw1?bv=1.0.0&bs=(169smpa8j(gid$2b5a6bb4-db58-11e8-a7cd-7b806556cd8e-7f844fa30700,st$1540803236609000,li$0,cr$34435817776,dmn$quwettea.tianxinmall.com,srv$3,exp$1540810436609000,ct$27,v$1.0,adv$1744555,pbid$1028526,seid$5527773))&r=1540803236610&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1744555\",\"callToAction\":\"Learn more\",\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=.X6SlAMGIS9Fpo_29xMPUPrHBk3Osp3l0hL_LvwVSnvKf2uwERIVgOL0kGiSj66xzJbwbMroqkJ9QtSvcl9DOawTumlVL52vmol0WYufM2Z0Z1j9fsoAfljGnn1DGa6TiGWel3rdFnPVlSEKDbvvvocsXKzbSuRnHv2lbdd_asZExZLrPOz4dUlgxfF29BywGaesd2k5KSIR4FIyB8TxZhmZbQ0YHeNcW80t.eaInjv_gs.Ixi3vD6wgGGv6Ok3OR5BqZ7aZHrn5ceWTW_tyjEh3SI6kX_rf95iZPE0PtyACQ8UlUbTVMOcuEQMPgSGa0yhO71WPUtru0b_4sezgTQ.M3lyEcHtjDQqR0O93Olb8ZbzP_sgypLQnsz.JP5UOziLedS6.lkZ2CmuGdIEhAVwcdYho1Ro1sxpbE.I9MEHPXfxScankPUWbhEGAzVtxBcJqY_SXfOETwlB1cv7.foYii4QEhq2SNmxHEE3h%26lp=\",\"dpaDeepLinking\":false,\"headline\":\"身體濕氣太重，體重一直減不下，整天乏力嗜睡，四肢沉重酸痛，一杯排濕，讓你一身輕鬆！\",\"hqImage\":\"\",\"hqImageHeight\":-1,\"hqImageWidth\":-1,\"image\":\"\",\"imageHeight\":-1,\"imageWidth\":-1,\"landingUrl\":\"http://quwettea.tianxinmall.com\",\"objective\":\"VISIT_WEB\",\"origImg\":\"\",\"origImgHeight\":-1,\"origImgWidth\":-1,\"source\":\"tianxinmall\",\"sponsoredByLabel\":\"Sponsored\",\"summary\":\"【古方祛濕茶】除便秘健脾調理草藥養生長壽茶飲，純中藥百年漢方減肥驅濕茶，去除濕氣濕毒排毒養顏養生茶，濕氣太重百病生，每天一杯祛濕茶，排出濕毒不用藥，祛除濕氣一身輕鬆！！\",\"thumbnailImage\":\"\",\"thumbnailImageHeight\":-1,\"thumbnailImageWidth\":-1,\"uuid\":\"34435817776\"}",
+         "winNotice" : ""
+      }
+   ],
+   "adsRequested" : 10,
+   "adserverLatency" : 1.900000000000000e-05,
+   "section" : {
+      "id" : 5527773,
+      "skip" : 0,
+      "start" : 1,
+      "template" : "https://s.yimg.com/av/curveball/templates/pr/cb-1488795611774-9630.plain",
+      "xpath" : "/html/body/div/ul/li/div/div/div/../../.."
+   },
+   "serverIp" : "extfe2.cbs.cb.tp2.yahoo.com",
+   "status" : "0",
+   "totalAds" : 1,
+   "totalLatency" : 0.0367970,
+   "userAge" : 37,
+   "userCountry" : "TW",
+   "userGender" : "M",
+   "version" : "2"
+}
+)
